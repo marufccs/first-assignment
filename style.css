@@ -89,3 +89,31 @@ font-family: 'Merriweather', serif;
     text-align: center;
     padding-top: 30px;
 }
+.plans {
+    text-align: center;
+    padding-top: 100px;
+}
+.parent {
+    display: flex;
+}
+.children {
+    padding: 50px;
+}
+#prima{
+    background-color: aqua;
+    width: 300px;
+    height: 200px;
+    border-radius: 4%;
+}
+#seconda {
+    width: 300px;
+    height: 200px;
+    background-color: beige;
+    border-radius: 4%;
+}
+#terza {
+    width: 300px;
+    height: 200px;
+    background-color: burlywood;
+    border-radius: 4%;
+}
