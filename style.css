@@ -2,3 +2,24 @@ body {
     font-family: 'Lora', serif;
 font-family: 'Merriweather', serif;
 }
+.header {
+    height: 500px;
+    width: 100%;
+    background-image: url(images/donation5.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#help {
+    text-align: center;
+    padding-top: 150px;
+    font-weight: 600;
+}
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(blue , skyblue );
+    color: white;
+    font-weight: 400;
+    padding: 15px;
+    border-radius: 10%;
+}
