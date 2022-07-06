@@ -5,8 +5,8 @@ font-family: 'Merriweather', serif;
 .header {
     height: 500px;
     width: 100%;
-    background-image: url(images/donation5.jpg);
-    color: white;
+    background-image: url(images/donation1.jpg);
+    color:white;
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -117,3 +117,23 @@ font-family: 'Merriweather', serif;
     background-color: burlywood;
     border-radius: 4%;
 }
+.lives {
+    display: flex;
+    padding-top: 100px;
+    margin: 10px;
+}
+.unique {
+    width: 50%;
+}
+.left {
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.right {
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 0%;
+    border-radius: 10%;
+}
+
